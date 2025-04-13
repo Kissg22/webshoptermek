@@ -16,4 +16,20 @@
     <stock>15</stock>
     <description>Divatos kék farmernadrág.</description>
   </product>
+    <product>
+    <id>3</id>
+    <name>Kék farmer</name>
+    <category>Ruházat</category>
+    <price>8990</price>
+    <stock>15</stock>
+    <description>Divatos kék farmernadrág.</description>
+  </product>
+    <product>
+    <id>4</id>
+    <name>Kék farmer</name>
+    <category>Ruházat</category>
+    <price>8990</price>
+    <stock>15</stock>
+    <description>Divatos kék farmernadrág.</description>
+  </product>
 </products>
