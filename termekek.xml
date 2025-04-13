@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>1</id>
+    <name>Fehér póló</name>
+    <category>Ruházat</category>
+    <price>3990</price>
+    <stock>42</stock>
+    <description>Pamut fehér póló, unisex.</description>
+  </product>
+  <product>
+    <id>2</id>
+    <name>Kék farmer</name>
+    <category>Ruházat</category>
+    <price>8990</price>
+    <stock>15</stock>
+    <description>Divatos kék farmernadrág.</description>
+  </product>
+</products>
