@@ -3,7 +3,7 @@
   <product>
     <id>1</id>
     <name>Fehér póló</name>
-    <category>Fürdőruha</category>
+    <category>Ruházat</category>
     <price>3990</price>
     <stock>42</stock>
     <description>Pamut fehér póló, unisex.</description>
@@ -11,7 +11,7 @@
   <product>
     <id>2</id>
     <name>Kék farmer</name>
-    <category>Fürdőruha</category>
+    <category>Ruházat</category>
     <price>8990</price>
     <stock>15</stock>
     <description>Divatos kék farmernadrág.</description>
