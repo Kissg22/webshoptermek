@@ -19,7 +19,7 @@
     <product>
     <id>3</id>
     <name>Kék farmer</name>
-    <category>Ruházat</category>
+    <category>TV</category>
     <price>8990</price>
     <stock>15</stock>
     <description>Divatos kék farmernadrág.</description>
@@ -27,7 +27,7 @@
     <product>
     <id>4</id>
     <name>Kék farmer</name>
-    <category>Ruházat</category>
+    <category>Sapka</category>
     <price>8990</price>
     <stock>15</stock>
     <description>Divatos kék farmernadrág.</description>
