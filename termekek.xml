@@ -1,35 +1,118 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <products>
-  <product>
-    <id>1</id>
-    <name>Fehér póló</name>
-    <category>Ruházat</category>
-    <price>3990</price>
-    <stock>42</stock>
-    <description>Pamut fehér póló, unisex.</description>
-  </product>
-  <product>
-    <id>2</id>
-    <name>Kék farmer</name>
-    <category>Ruházat</category>
-    <price>8990</price>
-    <stock>15</stock>
-    <description>Divatos kék farmernadrág.</description>
-  </product>
-    <product>
-    <id>3</id>
-    <name>Kék farmer</name>
-    <category>TV</category>
-    <price>8990</price>
-    <stock>15</stock>
-    <description>Divatos kék farmernadrág.</description>
-  </product>
-    <product>
-    <id>4</id>
-    <name>Kék farmer</name>
-    <category>Sapka</category>
-    <price>8990</price>
-    <stock>15</stock>
-    <description>Divatos kék farmernadrág.</description>
-  </product>
+<product>
+<sku>8594046790404</sku>
+<title>
+<![CDATA[ Amix Nutrition - Amix™ Black Line Yeep Pump No Caff 20x12g Pear Strike - Stimulánsmentes edzés előtti formula ]]>
+</title>
+<status>1</status>
+<categories>
+<category>
+<type>base</type>
+<name>
+<![CDATA[ Gyártók|Amix Nutrition|Amix edzés előtti formula ]]>
+</name>
+</category>
+</categories>
+<price>
+<net>7794.4881889764</net>
+<gross>9899</gross>
+<vat>27</vat>
+<currency>HUF</currency>
+</price>
+<unit>
+<![CDATA[ db ]]>
+</unit>
+<stock>7</stock>
+<description>
+<short>
+<![CDATA[ <p>20x12g Pear Strike - Stimulánsmentes edzés előtti formula</p><p></p><p>Forradalmi, szuper koncentrált edzés előtti stack, amelyet a legigényesebb sportolók számára terveztek, hogy intenzív edzéseiket magasabb szintre emeljék. KOFFEINMENTES Változat!!</p><p></p><p>Egy adagos, tasakos kiszerelés</p> ]]>
+</short>
+<long>
+<![CDATA[ <h2><span style="font-size: 13px;"><strong>Amix Nutrition - Amix™ Black Line Yeep Pump No Caff 20x12g Pear Strike - Stimulánsmentes edzés előtti formula</strong></span></h2><p>Forradalmi, szuper koncentrált edzés előtti stack, amelyet a legigényesebb sportolók számára terveztek, hogy intenzív edzéseiket magasabb szintre emeljék. KOFFEINMENTES Változat!!</p><p>Étrend-kiegészítő édesítőszerrel és ízesítéssel<br /><br />Kiszerelés: 20x12g,<br /><br />Az Amix™ Yeep Pump NO Caff egy forradalmi szuperkoncentrált edzés előtti stack, amelyet a legigényesebb sportolók számára terveztek, hogy intenzív edzéseiket magasabb szintre emeljék. Ez a frissítő és ízletes ital 3 g-os CarnoSyn® béta-alaninon alapul, Arginine Matrix, Tri-Focus Matrix, Taurin, L-Lizin, Glycerine GlyceroMaxTM, VitaCholine®, vörös spenót kivonat Oxystorm® és Betain infúzióval. A B6-vitamin segít csökkenteni a fáradtságot és a kimerültséget. A Ginkgo Biloba erős antioxidáns, és támogatja a vérkeringést.</p><h3><span style="font-size: 12px;"><strong>AJÁNLOTT FELHASZNÁLÁS:</strong></span></h3><p>Fogyasszon 1 adagot (tasak), 200ml vízben felolda 45 perccel edzés előtt</p> ]]>
+</long>
+</description>
+<unit_step>1</unit_step>
+<images>
+<image>
+<![CDATA[ https://www.flashprotein.hu/shop_ordered/63753/shop_pic/8594046790404.jpg ]]>
+</image>
+<image>
+<![CDATA[ https://www.flashprotein.hu/shop_ordered/63753/shop_altpic/8594046790404_altpic_1.jpg ]]>
+</image>
+<image>
+<![CDATA[ https://www.flashprotein.hu/shop_ordered/63753/shop_altpic/8594046790404_altpic_2.jpg ]]>
+</image>
+</images>
+<parameters>
+<parameter title="Egység">
+<![CDATA[ tasak ]]>
+</parameter>
+<parameter title="Egység mennyiség">
+<![CDATA[ 20 ]]>
+</parameter>
+<parameter title="Íz">
+<![CDATA[ Pear Strike ]]>
+</parameter>
+<parameter title="Márka">
+<![CDATA[ Amix Nutrition ]]>
+</parameter>
+<parameter title="Terméktípus">
+<![CDATA[ Edzés előtti készítmények ]]>
+</parameter>
+</parameters>
+</product>
+<product>
+<sku>850034416304</sku>
+<title>
+<![CDATA[ Haya Labs - Vegan Protein Bar 12x40g - Latte Macchiato with Biscotti ]]>
+</title>
+<status>1</status>
+<categories>
+<category>
+<type>base</type>
+<name>
+<![CDATA[ Termékek|Szeletek / Müzli|Fehérjeszelet ]]>
+</name>
+</category>
+<category>
+<type>alt</type>
+<name>
+<![CDATA[ Gyártók|Haya Labs ]]>
+</name>
+</category>
+</categories>
+<price>
+<net>6692.125984252</net>
+<gross>8499</gross>
+<vat>27</vat>
+<currency>HUF</currency>
+</price>
+<unit>
+<![CDATA[ db ]]>
+</unit>
+<stock>8</stock>
+<unit_step>1</unit_step>
+<images>
+<image>
+<![CDATA[ https://www.flashprotein.hu/shop_ordered/63753/shop_pic/850034416304.jpg ]]>
+</image>
+</images>
+<parameters>
+<parameter title="Egység">
+<![CDATA[ db ]]>
+</parameter>
+<parameter title="Egység mennyiség">
+<![CDATA[ 12 ]]>
+</parameter>
+<parameter title="Íz">
+<![CDATA[ Latte Macchiato with Biscotti ]]>
+</parameter>
+<parameter title="Márka">
+<![CDATA[ Haya Labs ]]>
+</parameter>
+<parameter title="Terméktípus">
+<![CDATA[ Fehérjék ]]>
+</parameter>
+</parameters>
+</product>
 </products>
